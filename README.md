@@ -11,7 +11,7 @@
 
 <img src="https://rubensousa.github.io/img/duolingo_viewpager.gif" width=300></img> <img src="https://rubensousa.github.io/img/viewpager_result.gif" width=300></img>
 
-![](./gif/ViewPagerCardView.png)
+![](./gif/ViewPagerCardView.gif)
 
 
 ## 使用步骤：
